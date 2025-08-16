@@ -1,2 +1,3 @@
 # repo-1
-my first repo in github
+my first github repo
+yo buddy
